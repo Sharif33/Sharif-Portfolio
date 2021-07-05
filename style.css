@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    display: flex;
+    width: 100%;
+    margin: 0;
+}
+#logo{
+ text-align: left;
+    width: 7%;
+}
+   #Gmail{
+       text-decoration: none;
+       color: orange;
+   }
+   #pic1{
+       width: 25%;
+   }
+   .hireMe{
+       text-align: center;
+   }
+   li{
+      display: inline-block;
+      padding: 0px 25px 0px 0px;
+   }
+   #smallW{
+       width: 20px;
+   }
+   h1{
+       color: #353353;
+   }
+   span{
+       color: orange;
+   }
+   #hime{
+       text-decoration: none;
+       padding: 7px 20px;
+       color: white;
+       background-color: #ff4c60;
+       border-radius: 20px;
+   }
